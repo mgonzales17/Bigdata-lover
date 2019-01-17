@@ -1,0 +1,10 @@
+Departamento,Quechua,Aymara,Quechua
+Dpto. Amazonas,458,65,458
+Dpto. Ancash,314141,531,314141
+Dpto. Apurimac,266336,701,266336
+Dpto. Arequipa,161891,18538,161891
+Dpto. Ayacucho,361622,744,361622
+Dpto. Cajamarca,5085,341,5085
+Prov. Constitucional del Callao,36312,2997,36312
+Dpto. Cusco,566581,1976,566581
+Dpto. Huancavelica,272085,373,272085
